@@ -36,4 +36,4 @@ Participantes ....
 
 ### Día 3
 
-- Lección 05  - Association Rule Learning
+- Lección 05  - Reglas de Asociación
