@@ -12,6 +12,6 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 
 4. Support Vector for Regression (SVR)
 
-5. Decision Tree Classification
+5. Decision Tree Regression
 
-6. Random Forest Classification
+6. Random Forest Regression
