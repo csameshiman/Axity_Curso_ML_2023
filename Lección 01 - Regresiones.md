@@ -15,4 +15,3 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 5. Decision Tree Classification
 
 6. Random Forest Classification
-
