@@ -34,7 +34,7 @@ Está orientado a todos aquellos colaboradores o consultores cuyas actividades e
 
 - Tener instalado anaconda 3.7
 
-- Durante curso, el participante deberá descargar el archivo `Axity_ML.zip` que se encuentra en este repositorio `https://github.com/JorgeEspinozaAlegria/Visualizacion_Analisis_Datos_Python`
+- Durante curso, el participante deberá descargar el archivo `Curso_ML.zip` que se encuentra en este repositorio `https://github.com/JorgeEspinozaAlegria/Axity_Curso_ML`
 
 - Una vez descargado el archivo, este deberá descomprimirse dentro del directorio de trabajo.
 
