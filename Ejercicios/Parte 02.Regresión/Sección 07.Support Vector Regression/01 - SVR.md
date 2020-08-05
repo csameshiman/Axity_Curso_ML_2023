@@ -668,8 +668,6 @@ sns.distplot(pred, hist=False, color="b", label="Predicción" , ax=ax1)
 sns.distplot((y_test-pred));
 ```
 
-    C:\Users\csameshima\anaconda3\lib\site-packages\seaborn\distributions.py:369: UserWarning: Default bandwidth for data is 0; skipping density estimation.
-      warnings.warn(msg, UserWarning)
     
 
 
@@ -728,8 +726,6 @@ sns.distplot(pred, hist=False, color="b", label="Predicción" , ax=ax1)
 sns.distplot((y_test-pred));
 ```
 
-    C:\Users\csameshima\anaconda3\lib\site-packages\seaborn\distributions.py:369: UserWarning: Default bandwidth for data is 0; skipping density estimation.
-      warnings.warn(msg, UserWarning)
     
 
 
@@ -772,9 +768,7 @@ ax1 = sns.distplot(y_test, hist=False, color="r", label="Valor real")
 sns.distplot(pred, hist=False, color="b", label="Predicción" , ax=ax1)
 ```
 
-    C:\Users\csameshima\anaconda3\lib\site-packages\seaborn\distributions.py:283: UserWarning: Data must have variance to compute a kernel density estimate.
-      warnings.warn(msg, UserWarning)
-    
+ 
 
 
 
