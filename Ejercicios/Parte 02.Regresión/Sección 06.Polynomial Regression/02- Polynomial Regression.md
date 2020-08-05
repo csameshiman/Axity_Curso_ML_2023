@@ -1,3 +1,14 @@
+# Regresión Polinómica
+
+**Contexto**  
+Este conjunto de datos consiste en una lista de puestos en una empresa junto con los niveles y su salario asociado.
+
+**Contenido**  
+El conjunto de datos incluye columnas para el Puesto con valores que van desde Analista de negocios, Consultor junior hasta CEO, Nivel que varía de 1 a 10 y, finalmente, el Salario asociado con cada puesto que varía de **45,000 a 1,000,000**.
+
+**Planteamiento del problema**  
+El enunciado del problema es que el candidato con nivel 6.5 tenía un salario anterior de 160,000. Para contratar al candidato para un nuevo puesto, a la compañía le gustaría confirmar si está siendo honesto acerca de su último salario para que pueda tomar una decisión de contratación . Para hacer esto, haremos uso del método de Regresión Polinómicapara predecir el salario exacto del empleado.
+
 ```python
 # Importamos las librerias
 import numpy as np
