@@ -48,19 +48,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -278,7 +265,7 @@ plt.show()
 ```
 
 
-![png](03-Random_forest_regression-Soluci%C3%B3n_files/03-Random_forest_regression-Soluci%C3%B3n_10_0.png)
+![png](../../imagenes/03-Random_forest_regression-Soluci%C3%B3n_10_0.png)
 
 
 
@@ -355,7 +342,7 @@ print(adr.score(X_train, y_train))
 ```
 
 
-![png](03-Random_forest_regression-Soluci%C3%B3n_files/03-Random_forest_regression-Soluci%C3%B3n_15_0.png)
+![png](../../imagenes/03-Random_forest_regression-Soluci%C3%B3n_15_0.png)
 
 
     DATOS DEL MODELO ÁRBOLES DE DECISIÓN REGRESION
