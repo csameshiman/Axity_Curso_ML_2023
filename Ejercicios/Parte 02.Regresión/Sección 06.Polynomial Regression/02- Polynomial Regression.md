@@ -20,13 +20,6 @@ import seaborn as sns
 
 ## Cargar Datos
 
-Los datos corresponden a una empresa de consultoría, con las siguientes columnas:
-* Position: puesto
-* Level: nivel
-* Salary: salario promedio
-
-El objetivo es generar un modelo que pueda predecir el salario de una nueva contratación, basándose en la posición y el nivel
-
 
 ```python
 # Importar el data set
