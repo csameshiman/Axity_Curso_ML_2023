@@ -1,4 +1,4 @@
-<center><u><H1>Polynomial Regression</H1></u></center>
+# Regresión Polinómica
 
 El conjunto de datos de este modelo proviene del repositorio “UCI Machine Learning”. 
 Estos datos se recopilaron en 1978, y cada una de las 506 entradas representan datos agregados de 14 características de casas en diversos barrios de Boston.
