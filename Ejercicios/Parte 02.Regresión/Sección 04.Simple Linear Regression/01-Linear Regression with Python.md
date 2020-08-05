@@ -281,7 +281,7 @@ sns.distplot(USAhousing['Price'])
 
 
 
-![png](../../imagenes//01-Linear%20Regression%20with%20Python_11_1.png)
+![png](../../imagenes/01-Linear%20Regression%20with%20Python_11_1.png)
 
 
 
@@ -478,15 +478,15 @@ sns.distplot((y_test-predictions),bins=50);
     
 **Mean Absolute Error** (MAE) es la media del valor absoluto de los errores:
 
-$$\frac 1n\sum_{i=1}^n|y_i-\hat{y}_i|$$
+<img src="https://render.githubusercontent.com/render/math?math=\frac%201n\sum_{i=1}^n|y_i-\hat{y}_i|">
 
 **Mean Squared Error** (MSE) es la media de los errores al cuadrado:
 
-$$\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2$$
+<img src="https://render.githubusercontent.com/render/math?math=\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2">
 
 **Root Mean Squared Error** (RMSE) es la raíz cuadrada de la media de los errores al cuadrado:
 
-$$\sqrt{\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2}$$
+<img src="https://render.githubusercontent.com/render/math?math=\sqrt{\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2}">
 
 Comparando estas métricas:
 
