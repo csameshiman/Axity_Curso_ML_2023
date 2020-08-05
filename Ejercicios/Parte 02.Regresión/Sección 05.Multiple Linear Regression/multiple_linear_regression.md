@@ -19,6 +19,8 @@ Los datos corresponden a 50 empresas emprendedoras, con las siguientes columnas:
 * State: estado en el que se ubica la compañía
 * Profit: utilidad
 
+El objetivo es generar un modelo que pueda predecir la utilidad que tendrá una nueva empresa, basándose en sus gastos en las diferentes áreas y el estado en que se encuentra localizada  
+
 
 ```python
 # Importar el conjunto de datos
