@@ -50,19 +50,6 @@ from sklearn import datasets
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -299,7 +286,7 @@ print('Nombres columnas:')
 ```
 
 
-![png](02-Random_forest_regression_files/02-Random_forest_regression_15_0.png)
+![png](../../imagenes/02-Random_forest_regression_15_0.png)
 
 
 
@@ -383,7 +370,7 @@ print(adr.score(X_train, y_train))
 ```
 
 
-![png](02-Random_forest_regression_files/02-Random_forest_regression_22_0.png)
+![png](../../imagenes/02-Random_forest_regression_22_0.png)
 
 
     DATOS DEL MODELO ÁRBOLES DE DECISIÓN REGRESION
