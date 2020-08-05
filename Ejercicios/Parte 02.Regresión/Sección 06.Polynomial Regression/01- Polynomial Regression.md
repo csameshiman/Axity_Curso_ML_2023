@@ -575,7 +575,7 @@ print(pr_cubic.intercept_)
     49.63165763207688
     
 
-Como podeos observar el valor de R cuadrado (medida estadística que representa 
+Como podemos observar el valor de R cuadrado (medida estadística que representa 
 
 
 ```python
