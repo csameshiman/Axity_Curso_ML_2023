@@ -83,7 +83,7 @@ print(regression.score(X, y))
 ```
 
 
-![png](01-Random_forest_regression_files/01-Random_forest_regression_6_0.png)
+![png](../../imagenes/01-Random_forest_regression_6_0.png)
 
 
     
