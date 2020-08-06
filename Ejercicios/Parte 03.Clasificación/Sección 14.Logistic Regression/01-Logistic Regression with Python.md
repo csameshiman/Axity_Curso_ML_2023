@@ -1,4 +1,4 @@
-f# Regresión Logística
+# Regresión Logística
 
 **Nota: La parte de cufflinks no se visualiza correctamente en JupiterLab. Abrir en Jupyter**
 
