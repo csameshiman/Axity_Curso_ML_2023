@@ -1,6 +1,6 @@
 # Regresión Logística
 
-**Diccionario de datos**f
+**Diccionario de datos**
 
 
 Variable|Definición|Llave
