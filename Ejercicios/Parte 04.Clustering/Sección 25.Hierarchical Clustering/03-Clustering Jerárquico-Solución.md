@@ -1023,9 +1023,3 @@ df_norm.groupby("clust_k").mean()
 </table>
 </div>
 
-
-
-
-```python
-
-```
