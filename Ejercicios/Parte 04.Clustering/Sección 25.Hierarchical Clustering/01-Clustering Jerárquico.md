@@ -31,7 +31,7 @@ plt.show()
     
 
 
-![png](01-Clustering%20Jer%C3%A1rquico_files/01-Clustering%20Jer%C3%A1rquico_2_1.png)
+![png](../../imagenes/01-Clustering%20Jer%C3%A1rquico_2_1.png)
 
 
 
