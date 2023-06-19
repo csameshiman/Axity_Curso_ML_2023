@@ -1,3 +1,5 @@
+![png](imagenes/logotipo-axity-ppt.png)
+
 # Axity_Curso_ML
 
 
