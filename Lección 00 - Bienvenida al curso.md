@@ -1,6 +1,6 @@
 ![png](imagenes/logotipo-axity-ppt.png)
 
-# Bienvenidos al curso "Curso de Machine Learning"
+# Bienvenidos al curso "Machine Learning"
 
 ## Duración y Horarios
 
