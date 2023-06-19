@@ -1,4 +1,6 @@
-# Lección 02 - Clasificación
+![png](imagenes/logotipo-axity-ppt.png)
+
+# Lección 03 - Clasificación
 
 A diferencia de la regresión donde se predice un valor continuo, se utiliza la clasificación para predecir una categoría. Existen una gran amalgama de aplicaciones del proceso de clasificación desde medicina hasta marketing. Los modelos de clasificación incluyen desde modelos lineales como la Regresión Logística, SVM, así como otros no lineales como K-NN, Kernel SVM y Bosques Aleatorios.
 
