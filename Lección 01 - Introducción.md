@@ -10,7 +10,7 @@
 "Es la capacidad de un sistema de cómputo, para imitar funciones cognitivas realizadas por los seres humanos, como aprendizaje y solución de problemas"  
 -- [Azure](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-artificial-intelligence/)
 
-"Es el ámbito de las ciencias computacionales, dedicado a resolver problemas cognitivos, asociados comunmente con la inteligencia humana, como aprendizaje, solución de problemas y reconocimiento de patrones"  
+"Es la especialidad de las ciencias computacionales, dedicada a resolver problemas cognitivos, asociados comunmente con la inteligencia humana, como aprendizaje, solución de problemas y reconocimiento de patrones"  
 -- [AWS](https://aws.amazon.com/machine-learning/what-is-ai/)
 
 "Es un conjunto de tecnologías que permite a las computadoras, realizar varias funciones avanzadas, inluyendo la habilidad de ver, entender y traducir lenguaje hablado y escrito, analizar datos, realizar recomendaciones y mucho más"  
@@ -26,20 +26,24 @@
 
 ## Terminología
 
-Dentro del ámbito de **AI**, se manejan varios términos. La siguiente imagen muestra la relación entre ellos.
+Dentro de la especialidad de **AI**, se manejan varios términos. Las siguientes imágenes muestran la relación entre ellos.
 
 ![png](imagenes/Introduccion_02.png)
 
+![png](imagenes/Introduccion_03.png)
+
+![png](imagenes/Introduccion_04.png)
+
 Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante **AI**, se muestran en la siguiente imagen (con sus divisiones).
 
-![png](imagenes/Introduccion_03.png)
+![png](imagenes/Introduccion_05.png)
 
 
 ## Programación Tradicional y Machine Learning
 
-![png](imagenes/Introduccion_04.png)
+![png](imagenes/Introduccion_06.png)
 
 
 ## Tipos de Aprendizaje en Machine Learning
 
-![png](imagenes/Introduccion_05.png)
+![png](imagenes/Introduccion_07.png)
