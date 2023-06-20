@@ -2,7 +2,7 @@
 
 # Introducción
 
-## ¿Qué es Inteligencia Artificial?
+## ¿Qué es Inteligencia Artificial? (AI)
 
 "Es la inteligencia demostrada por máquinas, a diferencia de la inteligencia mostrada por los seres humanos u otros animales"  
 --[Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -20,17 +20,17 @@
 -- [IBM](https://www.ibm.com/topics/artificial-intelligence)
 
 
-AI busca aumentar la inteligencia de los seres humanos, no sustituirla (idealmente).
+**AI** busca aumentar la inteligencia de los seres humanos, no sustituirla (idealmente).
 
 ![png](imagenes/Introduccion_01.png)
 
 ## Terminología
 
-Dentro del ámbito de AI y ML, se manejan varios términos. La siguiente imagen muestra la relación entre ellos.
+Dentro del ámbito de **AI**, se manejan varios términos. La siguiente imagen muestra la relación entre ellos.
 
 ![png](imagenes/Introduccion_02.png)
 
-Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante Ai, se muestran en la siguiente imagen.
+Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante **AI**, se muestran en la siguiente imagen (con sus divisiones).
 
 ![png](imagenes/Introduccion_03.png)
 
