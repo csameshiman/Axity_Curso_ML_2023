@@ -4,13 +4,13 @@
 
 ## ¿Qué es Inteligencia Artificial?
 
-"Es *inteligencia* demostrada por máquinas, a diferencia de la *inteligencia* mostrada por los seres humanos u otros animales"  
+"Es la inteligencia demostrada por máquinas, a diferencia de la inteligencia mostrada por los seres humanos u otros animales"  
 --[Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 "Es la capacidad de un sistema de cómputo, para imitar funciones cognitivas realizadas por los seres humanos, como aprendizaje y solución de problemas"  
 -- [Azure](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-artificial-intelligence/)
 
-"Es el ámbito de las ciencias computacionales, dedicado a resolver problemas cognitivos, asociados comunmente con la *inteligencia* humana, como aprendizaje, solución de problemas y reconocimiento de patrones"  
+"Es el ámbito de las ciencias computacionales, dedicado a resolver problemas cognitivos, asociados comunmente con la inteligencia humana, como aprendizaje, solución de problemas y reconocimiento de patrones"  
 -- [AWS](https://aws.amazon.com/machine-learning/what-is-ai/)
 
 "Es un conjunto de tecnologías que permite a las computadoras, realizar varias funciones avanzadas, inluyendo la habilidad de ver, entender y traducir lenguaje hablado y escrito, analizar datos, realizar recomendaciones y mucho más"  
@@ -20,12 +20,17 @@
 -- [IBM](https://www.ibm.com/topics/artificial-intelligence)
 
 
-AI busca aumentar la inteligencia de los seres humanos, no sustituirla (idealmente).  
+AI busca aumentar la inteligencia de los seres humanos, no sustituirla (idealmente).
+
 ![png](imagenes/Introduccion_01.png)
 
 ## Terminología
 
+Dentro del ámbito de AI y ML, se manejan varios términos. La siguiente imagen muestra la relación entre ellos.
+
 ![png](imagenes/Introduccion_02.png)
+
+Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante Ai, se muestran en la siguiente imagen.
 
 ![png](imagenes/Introduccion_03.png)
 
