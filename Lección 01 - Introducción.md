@@ -60,9 +60,9 @@ De manera general, está conformado por:
 | Ambientes de Desarrollo | Librerias    | Servicios en la Nube |
 |-------------------------|--------------|----------------------|
 | Jupyter Notebooks       | scikit-learn | Azure                |
-| Cloud Notebooks         | keras        | AWS                  |
-| Visual Studio           | Tensorflow   | Google Cloud         |
-|                         | pytorch      |                      |
+| Cloud Notebooks         | Keras        | AWS                  |
+| Visual Studio           | TensorFlow   | Google Cloud         |
+|                         | PyTorch      |                      |
 
 ## Ejemplos de Librerías
 
