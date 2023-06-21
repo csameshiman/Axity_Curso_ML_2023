@@ -26,7 +26,7 @@
 
 ## Terminología
 
-Dentro de la especialidad de **AI**, se manejan varios términos. Las siguientes imágenes muestran la relación entre ellos.
+Dentro del ámbito de **AI**, se manejan varios términos. Las siguientes imágenes muestran la relación entre ellos.
 
 ![png](imagenes/Introduccion_02.png)
 
@@ -34,7 +34,7 @@ Dentro de la especialidad de **AI**, se manejan varios términos. Las siguientes
 
 ![png](imagenes/Introduccion_04.png)
 
-Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante **AI**, se muestran en la siguiente imagen (con sus divisiones).
+Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediante **AI**, se muestran en la siguiente imagen (con sus diferentes divisiones).
 
 ![png](imagenes/Introduccion_05.png)
 
@@ -51,3 +51,19 @@ Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediant
 Existen 3 maneras principales para desarrollar los modelos en **ML**
 
 ![png](imagenes/Introduccion_07.png)
+
+
+## Ecosistema de ML
+
+De manera general, está conformado por:
+
+| Ambientes de Desarrollo | Librerias    | Servicios en la Nube |
+|-------------------------|--------------|----------------------|
+| Jupyter Notebooks       | scikit-learn | Azure                |
+| Cloud Notebooks         | keras        | AWS                  |
+| Visual Studio           | Tensorflow   | Google Cloud         |
+|                         | pytorch      |                      |
+
+## Ejemplos de Librerías
+
+![png](imagenes/Introduccion_08.png)
