@@ -48,6 +48,6 @@ Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediant
 
 ## Tipos de Aprendizaje en Machine Learning
 
-Existen 3 maneras de programar los modelos en **ML**
+Existen 3 maneras principales para desarrollar los modelos en **ML**
 
 ![png](imagenes/Introduccion_07.png)
