@@ -24,6 +24,7 @@
 
 ![png](imagenes/Introduccion_01.png)
 
+
 ## Terminología
 
 Dentro del ámbito de **AI**, se manejan varios términos. Las siguientes imágenes muestran la relación entre ellos.
@@ -38,7 +39,8 @@ Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediant
 
 ![png](imagenes/Introduccion_05.png)
 
-[Introducción_ML](Diapositivas/Parte%2001.Introducci%C3%B3n/Secci%C3%B3n%2001)
+[Introducción ML](Diapositivas/Parte%2001.Introducci%C3%B3n/Secci%C3%B3n%2001)
+
 
 ## Programación Tradicional y Machine Learning (ML)
 
@@ -65,6 +67,16 @@ De manera general, está conformado por:
 | Visual Studio           | TensorFlow   | Google Cloud         |
 |                         | PyTorch      |                      |
 
+
 ## Ejemplos de Librerías
 
 ![png](imagenes/Introduccion_08.png)
+
+
+## Referencias Adicionales
+
+[Analítica Descriptiva](Diapositivas/Parte%2001.Introducci%C3%B3n/Secci%C3%B3n%2001)
+[Getting Started with Data Science](https://open.sap.com/courses/ds3)
+[Exploring the Word of AI](https://open.sap.com/courses/ai1)
+[Introduction to Statistics for Data Science](https://open.sap.com/courses/ds0)
+
