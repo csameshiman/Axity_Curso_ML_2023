@@ -12,7 +12,7 @@
 
 ### Instructor:
 Jorge Alberto Espinoza Alegría  
-Data Scientist  
+Arquitecto  
 Business Analytics  
 jorge.espinoza@axity.com  
 5510696542  
@@ -38,4 +38,4 @@ Participantes ....
 
 ### Día 3
 
-- Lección 05  - Reglas de Asociación
+- Lección 05 - Reglas de Asociación
