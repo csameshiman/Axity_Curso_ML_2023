@@ -38,6 +38,7 @@ Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediant
 
 ![png](imagenes/Introduccion_05.png)
 
+[Introducción_ML](Diapositivas/Parte%2001.Introducci%C3%B3n/Secci%C3%B3n%2001/Introducci%C3%B3n_ML.pptx)
 
 ## Programación Tradicional y Machine Learning (ML)
 
