@@ -13,7 +13,7 @@
 ### Instructor:
 Jorge Alberto Espinoza Alegría  
 Arquitecto  
-Business Analytics  
+Analytics  
 jorge.espinoza@axity.com  
 5510696542  
 
