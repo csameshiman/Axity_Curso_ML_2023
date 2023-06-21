@@ -39,11 +39,15 @@ Algunos de los diferentes tipos de aplicaciones que pueden desarrollarse mediant
 ![png](imagenes/Introduccion_05.png)
 
 
-## Programación Tradicional y Machine Learning
+## Programación Tradicional y Machine Learning (ML)
+
+**ML** utiliza un nuevo paradigma de programación.
 
 ![png](imagenes/Introduccion_06.png)
 
 
 ## Tipos de Aprendizaje en Machine Learning
+
+Existen 3 maneras de programar los modelos en **ML**
 
 ![png](imagenes/Introduccion_07.png)
