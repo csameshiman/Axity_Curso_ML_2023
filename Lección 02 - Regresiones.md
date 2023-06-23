@@ -6,9 +6,13 @@ Los modelos de regresión (tanto lineal como no lineal) se utilizan muchísimo p
 
 En esta parte, vamos a entender e implementar los siguientes modelos de Regresión dentro de Machine Learning:
 
-1. [Simple Linear Regression](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.1.Simple%20Linear%20Regression)
+1. Simple Linear Regression  
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.1.Simple%20Linear%20Regression)  
+[Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.1.Simple%20Linear%20Regression)  
 
-2. [Multiple Linear Regression](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)
+2. Multiple Linear Regression  
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)  
+[Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)
 
 3. Polynomial Regression
 
