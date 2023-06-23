@@ -8,7 +8,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 
 1. [Simple Linear Regression](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.1.Simple%20Linear%20Regression)
 
-2. Multiple Linear Regression
+2. [Multiple Linear Regression](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)
 
 3. Polynomial Regression
 
