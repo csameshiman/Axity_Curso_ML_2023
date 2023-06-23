@@ -14,7 +14,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)  
 [Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.2.Multiple%20Linear%20Regression)
 
-3. Polynomial Regression
+3. Polynomial Regression  
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.3.Polynomial%20Regression)  
 [Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.3.Polynomial%20Regression)
 
