@@ -18,7 +18,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.3.Polynomial%20Regression)  
 [Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.3.Polynomial%20Regression)
 
-4. Support Vector for Regression (SVR)
+4. Support Vector for Regression (SVR)  
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.4.Support%20Vector%20Regression)  
 [Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.4.Support%20Vector%20Regression)
 
