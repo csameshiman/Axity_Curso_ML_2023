@@ -26,4 +26,10 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi�
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.5.Decision%20Tree%20Regression)  
 [Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.5.Decision%20Tree%20Regression)
 
-6. Random Forest Regression
+6. Random Forest Regression  
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.6.Random%20Forest%20Regression)  
+[Ejercicios](Ejercicios/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.6.Random%20Forest%20Regression)
+
+7. Evaluación de los Modelos de Regresión  
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.7.Evaluating%20Regression%20Models)  
+
