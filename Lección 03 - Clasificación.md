@@ -6,7 +6,9 @@ A diferencia de la regresión donde se predice un valor continuo, se utiliza la 
 
 En esta parte vamos a entender y aprender cómo implementar los siguientes modelos de Clasificación de Machine Learning:
 
-1. Regresión Logística
+1. Regresión Logística  
+[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
 
 2. K-Nearest Neighbors (K-NN)
 
