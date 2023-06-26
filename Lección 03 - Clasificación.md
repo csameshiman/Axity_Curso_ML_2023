@@ -19,6 +19,8 @@ En esta parte vamos a entender y aprender cómo implementar los siguientes model
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.3.Support%20Vector%20Machine)  
 
 4. Kernel SVM  
+[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.4.Kernel%20SVM)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.4.Kernel%20SVM)  
 
 5. Naive Bayes  
 
