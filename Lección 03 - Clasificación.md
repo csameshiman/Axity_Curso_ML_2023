@@ -10,16 +10,16 @@ En esta parte vamos a entender y aprender cómo implementar los siguientes model
 [Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
 
-2. K-Nearest Neighbors (K-NN)
+2. K-Nearest Neighbors (K-NN)  
 [Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
 
-3. Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)  
 
-4. Kernel SVM
+4. Kernel SVM  
 
-5. Naive Bayes
+5. Naive Bayes  
 
-6. Árboles de Decisión para Clasificación
+6. Árboles de Decisión para Clasificación  
 
-7. Clasificación con Bosques Aleatorios
+7. Clasificación con Bosques Aleatorios  
