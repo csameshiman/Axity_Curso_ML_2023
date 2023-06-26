@@ -11,6 +11,8 @@ En esta parte vamos a entender y aprender cómo implementar los siguientes model
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
 
 2. K-Nearest Neighbors (K-NN)
+[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
 
 3. Support Vector Machine (SVM)
 
