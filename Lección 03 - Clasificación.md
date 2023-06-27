@@ -27,5 +27,9 @@ En esta parte vamos a entender y aprender cómo implementar los siguientes model
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.5.Naive%20Bayes)  
 
 6. Árboles de Decisión para Clasificación  
+[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
 
 7. Clasificación con Bosques Aleatorios  
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.6.Random%20Forest%20Regression)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
