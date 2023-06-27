@@ -23,6 +23,8 @@ En esta parte vamos a entender y aprender cómo implementar los siguientes model
 [Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.4.Kernel%20SVM)  
 
 5. Naive Bayes  
+[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.5.Naive%20Bayes)  
+[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.5.Naive%20Bayes)  
 
 6. Árboles de Decisión para Clasificación  
 
