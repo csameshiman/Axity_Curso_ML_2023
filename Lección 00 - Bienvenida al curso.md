@@ -11,11 +11,10 @@
 ## Presentación de participantes al curso
 
 ### Instructor:
-Jorge Alberto Espinoza Alegría  
-Arquitecto  
-Analytics  
-jorge.espinoza@axity.com  
-5510696542  
+Claudia Sameshima Nishikawa  
+Consultor  
+Data Science  
+claudia.sameshima@axity.com  
 
 Participantes ....  
 
