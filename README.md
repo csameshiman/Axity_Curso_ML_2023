@@ -36,7 +36,7 @@ Está orientado a todos aquellos colaboradores o consultores cuyas actividades e
 
 - Tener instalado anaconda 3.7 o utilizar Google Colab `https://colab.research.google.com/`
 
-- Durante curso, el participante deberá descargar el archivo `Curso_ML.zip` que se encuentra en este repositorio `https://github.com/JorgeEspinozaAlegria/Axity_Curso_ML`
+- Durante curso, el participante deberá descargar los archivos `Axity_Curso_ML_Diapositivas.zip` y `Axity_Curso_ML_Ejercicios.zip` que se encuentra en este repositorio `https://github.com/csameshiman/Axity_Curso_ML_2023`
 
 - Una vez descargado el archivo, este deberá descomprimirse dentro del directorio de trabajo.
 
