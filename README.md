@@ -29,7 +29,7 @@ Proporcionar los conceptos básicos de Machine Learning, para que los participan
 * Laptop con:
      * Mínimo 8 Gb de RAM
      * Mínimo 25 GB disponibles en disco
-* Tener instalado anaconda 3.7 (o posterior) o utilizar [Google Colab](https://colab.research.google.com/)
+* Tener instalado [anaconda](https://www.anaconda.com) 3.7 (o posterior) o utilizar [Google Colab](https://colab.research.google.com/)
 
 En el caso de anaconda, deberá tener instaladas las siguientes librerías:
 * matplotlib
