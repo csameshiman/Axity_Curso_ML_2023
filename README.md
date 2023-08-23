@@ -27,7 +27,7 @@ Proporcionar los conceptos básicos de Machine Learning, para que los participan
 * Experiencia trabajando con datos en Python y SQL
 * Conocimiento sobre comandos básicos de Linux
 * Laptop con:
-     * Mínimo 8 Gb de RAM
+     * Mínimo 8 GB de RAM
      * Mínimo 25 GB disponibles en disco
 * Tener instalado [anaconda](https://www.anaconda.com) 3.7 (o posterior) o utilizar [Google Colab](https://colab.research.google.com/)
 
