@@ -1,6 +1,6 @@
 ![png](imagenes/logotipo-axity-ppt.png)
 
-# Axity Curso Machine Learning
+# Curso Machine Learning
 
 ## Acerca del curso
 
