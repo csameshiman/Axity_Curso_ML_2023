@@ -40,13 +40,8 @@ En el caso de anaconda, deberá tener instaladas las siguientes librerías:
 
 &nbsp;
 
-* Durante curso, el participante deberá descargar los archivos [Axity_Curso_ML_Diapositivas.zip](Axity_Curso_ML_Diapositivas) y [Axity_Curso_ML_Ejercicios](Axity_Curso_ML_Ejercicios.zip) que se encuentran en este [repositorio](https://github.com/csameshiman/Axity_Curso_ML_2023)
-* Una vez descargados los archivos, estos deberán descomprimirse dentro de un directorio local.
-
-&nbsp;
-&nbsp;
-
-![png](imagenes/acuerdos.png)
+Durante curso, el participante deberá descargar los archivos [Axity_Curso_ML_Diapositivas.zip](Axity_Curso_ML_Diapositivas) y [Axity_Curso_ML_Ejercicios](Axity_Curso_ML_Ejercicios.zip) que se encuentran en este [repositorio](https://github.com/csameshiman/Axity_Curso_ML_2023)
+Una vez descargados los archivos, estos deberán descomprimirse dentro de un directorio local.
 
 &nbsp;
 &nbsp;
