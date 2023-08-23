@@ -30,5 +30,14 @@
 
 ![png](imagenes/acuerdos.png)
 
+* Al finalizar cada lección, se aplicará un **cuestionario**, para comprobar que se entendió la parte teórica
+* Al finalizar el curso, se tendrá que envíar al instructor **por correo**, los notebooks de los ejercicios realizados, para comprobar que se entendió la parte práctica
+* Antes de finalizar el curso, es importante que se complete la **[encuesta de evaluación](https://forms.office.com/r/2d6SdK2Fsj)**
+
+
 &nbsp;
 &nbsp;
+
+## Licencia
+
+[MIT](https://opensource.org/licenses/MIT)
