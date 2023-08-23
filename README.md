@@ -1,6 +1,6 @@
 ![png](imagenes/logotipo-axity-ppt.png)
 
-# Axity_Curso_ML
+# Axity Curso Machine Learning
 
 ## Acerca del curso
 
@@ -29,7 +29,7 @@ Proporcionar los conceptos básicos de Machine Learning, para que los participan
 * Laptop con:
      * Mínimo 8 Gb de RAM
      * Mínimo 25 GB disponibles en disco
-* Tener instalado anaconda 3.7 (o posterior) o utilizar Google Colab `https://colab.research.google.com/`
+* Tener instalado anaconda 3.7 (o posterior) o utilizar [Google Colab](https://colab.research.google.com/)
 
 En el caso de anaconda, deberá tener instaladas las siguientes librerías:
 * matplotlib
@@ -40,7 +40,7 @@ En el caso de anaconda, deberá tener instaladas las siguientes librerías:
 
 &nbsp;
 
-* Durante curso, el participante deberá descargar los archivos `Axity_Curso_ML_Diapositivas.zip` y `Axity_Curso_ML_Ejercicios.zip` que se encuentra en este repositorio `https://github.com/csameshiman/Axity_Curso_ML_2023`
+* Durante curso, el participante deberá descargar los archivos [Axity_Curso_ML_Diapositivas.zip](Axity_Curso_ML_Diapositivas) y [Axity_Curso_ML_Ejercicios](Axity_Curso_ML_Ejercicios.zip) que se encuentran en este [repositorio](https://github.com/csameshiman/Axity_Curso_ML_2023)
 * Una vez descargados los archivos, estos deberán descomprimirse dentro de un directorio local.
 
 &nbsp;
