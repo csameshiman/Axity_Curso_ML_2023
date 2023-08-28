@@ -15,9 +15,13 @@
           * [Exploring the Word of AI](https://open.sap.com/courses/ai1)  
           * [Getting Started with Data Science](https://open.sap.com/courses/ds3)  
      * [AWS Academy](https://aws.amazon.com/training/awsacademy/)
-     * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-     * [Google Cloud Skills](https://partner.cloudskillsboost.google/)
-     * [Qwiklabs](https://www.qwiklabs.com/)
+     * Microsoft
+          * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+          * [ai-fundamentals](https://github.com/MicrosoftDocs/ai-fundamentals)
+     * Google
+          * [Google Cloud Skills](https://partner.cloudskillsboost.google/)
+          * [Qwiklabs](https://www.qwiklabs.com/)
+          * [training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst)
      * [Cognitive Class](https://cognitiveclass.ai/)
 * Sitios web
      * [KD nuggets](https://www.kdnuggets.com/)
@@ -32,6 +36,7 @@
      * [10 Great Places to Find Free Datasets for Your Next Project](https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/)
      * [43 Free Datasets for Building an Irresistible Portfolio](https://www.dataquest.io/blog/free-datasets-for-projects/)
      * [90 Free Datasets for Your Next Data Science Project](https://www.interviewquery.com/p/free-datasets)
+
 
 &nbsp;
 &nbsp;
