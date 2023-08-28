@@ -37,12 +37,9 @@
      * [43 Free Datasets for Building an Irresistible Portfolio](https://www.dataquest.io/blog/free-datasets-for-projects/)
      * [90 Free Datasets for Your Next Data Science Project](https://www.interviewquery.com/p/free-datasets)
 
-
 &nbsp;
 &nbsp;
 
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
-
-
