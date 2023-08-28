@@ -2,7 +2,7 @@
 
 # Introducción
 
-[Introducción ML](Diapositivas/Parte%2001.Introducci%C3%B3n/Secci%C3%B3n%2001)
+[Introducción ML](Diapositivas/Parte%2001.Introducci%C3%B3n)
 
 [Cuestionario](https://forms.office.com/r/k3DtdFpn5B)
  
