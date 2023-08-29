@@ -10,7 +10,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi√
 
 [Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n)
 
-[Ejercicios]
+[Ejercicios](Ejercicios/Parte%2002.Regresi√≥n)
 
 1. Simple Linear Regression
 
