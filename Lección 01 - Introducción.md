@@ -2,7 +2,7 @@
 
 # Introducción
 
-[Introducción ML](Diapositivas/Parte%2001.Introducci%C3%B3n)
+[Diapositivas](Diapositivas/Parte%2001.Introducci%C3%B3n)
 
 [Ejercicios](Ejercicios/Parte%2001.Introducción)
 
