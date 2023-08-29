@@ -14,7 +14,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi�
 
 1. Simple Linear Regression
 
-     * Preparación de datos
+* Preparación de datos
 
 2. Multiple Linear Regression
 
