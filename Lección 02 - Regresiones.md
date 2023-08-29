@@ -8,10 +8,6 @@ Si nuestra variable independiente es tiempo, entonces podemos hacer predicciones
 
 En esta parte, vamos a entender e implementar los siguientes modelos de Regresi처n dentro de Machine Learning:
 
-[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n)
-
-[Ejercicios](Ejercicios/Parte%2002.Regresi처n)
-
 1. Simple Linear Regression
 
 * Preparaci처n de datos
@@ -27,6 +23,10 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi�
 6. Random Forest Regression
 
 7. Evaluaci처n de los Modelos de Regresi처n
+
+[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n)
+
+[Ejercicios](Ejercicios/Parte%2002.Regresi처n)
 
 &nbsp;
 &nbsp;
