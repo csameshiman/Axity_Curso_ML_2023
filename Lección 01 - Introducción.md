@@ -4,6 +4,8 @@
 
 [Introducción ML](Diapositivas/Parte%2001.Introducci%C3%B3n)
 
+[Ejercicios](Ejercicios/Parte%2001.Introducción)
+
 [Cuestionario](https://forms.office.com/r/k3DtdFpn5B)
  
 
@@ -31,7 +33,7 @@
      * [scikit-learn](https://scikit-learn.org)
           * [scikit-learn datasets](https://scikit-learn.org/stable/datasets.html)
      * [kaggle](https://www.kaggle.com)
-          * [kaggel datasets](https://www.kaggle.com/datasets)
+          * [kaggle datasets](https://www.kaggle.com/datasets)
 * Datasets
      * [10 Great Places to Find Free Datasets for Your Next Project](https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/)
      * [43 Free Datasets for Building an Irresistible Portfolio](https://www.dataquest.io/blog/free-datasets-for-projects/)
