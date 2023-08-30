@@ -4,10 +4,9 @@
 
 [Diapositivas](Diapositivas/Parte%2001.Introducci%C3%B3n)
 
-[Ejercicios](Ejercicios/Parte%2001.Introducción)
-
 [Cuestionario](https://forms.office.com/r/k3DtdFpn5B)
- 
+
+[Ejercicios](Ejercicios/Parte%2002.Regresión)
 
 ## Referencias Adicionales
 
