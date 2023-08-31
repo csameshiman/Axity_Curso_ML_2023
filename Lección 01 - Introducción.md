@@ -33,6 +33,7 @@
           * [scikit-learn datasets](https://scikit-learn.org/stable/datasets.html)
      * [kaggle](https://www.kaggle.com)
           * [kaggle datasets](https://www.kaggle.com/datasets)
+     * [OpenML](https://openml.org/)
 * Datasets
      * [10 Great Places to Find Free Datasets for Your Next Project](https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/)
      * [43 Free Datasets for Building an Irresistible Portfolio](https://www.dataquest.io/blog/free-datasets-for-projects/)
