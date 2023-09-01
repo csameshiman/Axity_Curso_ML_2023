@@ -2,34 +2,33 @@
 
 # Lección 03 - Clasificación
 
-A diferencia de la regresión donde se predice un valor continuo, se utiliza la clasificación para predecir una categoría. Existen una gran amalgama de aplicaciones del proceso de clasificación desde medicina hasta marketing. Los modelos de clasificación incluyen desde modelos lineales como la Regresión Logística, SVM, así como otros no lineales como K-NN, Kernel SVM y Bosques Aleatorios.
+Mientras que en la regresión se predice un valor continuo, en la clasificación se predice una categoría.
 
-En esta parte vamos a entender y aprender cómo implementar los siguientes modelos de Clasificación de Machine Learning:
+Existe una gran cantidad de aplicaciones de clasificación, desde medicina hasta marketing.
 
-1. Regresión Logística  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.1.Logistic%20Regression)  
+Veremos los siguientes temas:
 
-2. K-Nearest Neighbors (K-NN)  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.2.k-Nearest%20Neighbors)  
+* EDA / Preparación de datos
 
-3. Support Vector Machine (SVM)  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.3.Support%20Vector%20Machine)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.3.Support%20Vector%20Machine)  
+1. Logistic Regression
 
-4. Kernel SVM  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.4.Kernel%20SVM)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.4.Kernel%20SVM)  
+2. K-Nearest Neighbors (K-NN)
 
-5. Naive Bayes  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.5.Naive%20Bayes)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.5.Naive%20Bayes)  
+3. Naive Bayes
 
-6. Árboles de Decisión para Clasificación  
-[Diapositivas](Diapositivas/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
+4. Support Vector Machine (SVM)
 
-7. Clasificación con Bosques Aleatorios  
-[Diapositivas](Diapositivas/Parte%2002.Regresi%C3%B3n/Secci%C3%B3n%2002.6.Random%20Forest%20Regression)  
-[Ejercicios](Ejercicios/Parte%2003.Clasificaci%C3%B3n/Secci%C3%B3n%2003.6.Decision%20Tree%20Classification)  
+5. Decision Trees Classification
+
+6. Random Forest Classification
+
+[Diapositivas](Diapositivas/Parte%2003.Clasificación)
+
+[Ejercicios](Ejercicios/Parte%2003.Clasificación)
+
+&nbsp;
+&nbsp;
+
+## Licencia
+
+[MIT](https://opensource.org/licenses/MIT)
