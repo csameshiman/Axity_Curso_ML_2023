@@ -6,7 +6,7 @@ Los modelos de regresión se utilizan para predecir valores numéricos, como por
 
 Si nuestra variable independiente es tiempo, entonces podemos hacer predicciones de valores futuros; sin embargo nuestro modelo puede predecir también valores desconocidos del presente.
 
-En esta parte, vamos a entender e implementar los siguientes modelos de Regresión dentro de Machine Learning:
+Veremos los siguientes temas:
 
 1. Simple Linear Regression
 
@@ -18,7 +18,7 @@ En esta parte, vamos a entender e implementar los siguientes modelos de Regresi�
 
 4. Support Vector for Regression (SVR)
 
-5. Decision Tree Regression
+5. Decision Trees Regression
 
 6. Random Forest Regression
 
