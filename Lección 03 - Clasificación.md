@@ -18,9 +18,9 @@ Veremos los siguientes temas:
 
 4. Support Vector Machine (SVM)
 
-5. Decision Trees Classification
+5. Decision Trees Classification / Random Forest Classification
 
-6. Random Forest Classification
+6. Evaluación de los Modelos de Clasificación
 
 [Diapositivas](Diapositivas/Parte%2003.Clasificación)
 
