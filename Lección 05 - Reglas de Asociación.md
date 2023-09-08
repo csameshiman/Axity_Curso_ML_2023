@@ -2,14 +2,23 @@
 
 # Lección 05 - Reglas de Asociación
 
-Las reglas de asociación se utilizan para identificar las relaciones subyacentes entre diferentes elementos. Se utilizan mucho en motores de recomendación (por ejemplo Netflix, Amazon, etc.).
+Las reglas de asociación se utilizan para identificar las relaciones entre diferentes elementos.
 
-En esta parte vamos a entender y aprender cómo implementar los siguientes modelos de Reglas de Asociación de Machine Learning:
+Se utilizan en motores de recomendación (por ejemplo Netflix, Amazon, etc.).
+
+Veremos los siguientes temas:
 
 1. Apriori  
-[Diapositivas](Diapositivas/Parte%2005.Association%20Rule/Secci%C3%B3n%2005.1.Apriori)  
-[Ejercicios](Ejercicios/Parte%2005.Association%20Rule/Secci%C3%B3n%2005.1.Apriori)  
 
 2. Eclat  
-[Diapositivas](Diapositivas/Parte%2005.Association%20Rule/Secci%C3%B3n%2005.2.Eclat)  
-[Ejercicios](Ejercicios/Parte%2005.Association%20Rule/Secci%C3%B3n%2005.2.Eclat)  
+
+[Diapositivas](Diapositivas/Parte%2005.Reglas%20de%20Asociación)
+
+[Ejercicios](Ejercicios/Parte%2005.Reglas%20de%20Asociación)
+
+&nbsp;
+&nbsp;
+
+## Licencia
+
+[MIT](https://opensource.org/licenses/MIT)
