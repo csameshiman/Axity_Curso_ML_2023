@@ -24,6 +24,7 @@
 * Lección 03 - Clasificación
 * Lección 04 - Clustering
 * Lección 05 - Reglas de Asociación
+* Lección 06 - Aprendizaje por Refuerzo
 
 &nbsp;
 &nbsp;
