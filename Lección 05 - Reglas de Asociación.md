@@ -12,9 +12,9 @@ Veremos los siguientes temas:
 
 2. Eclat  
 
-[Diapositivas](Diapositivas/Parte%2005.Association%20Rules)
+[Diapositivas](Diapositivas/Parte%2005.Reglas%20de%20Asociación)
 
-[Ejercicios](Ejercicios/Parte%2005.Association%20Rules)
+[Ejercicios](Ejercicios/Parte%2005.Reglas%20de%20Asociación)
 
 &nbsp;
 &nbsp;
