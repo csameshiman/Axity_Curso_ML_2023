@@ -25,7 +25,6 @@ Proporcionar los conceptos básicos de Machine Learning, para que los participan
 ## Pre-requisitos
 
 * Experiencia trabajando con datos en Python y SQL
-* Conocimiento sobre comandos básicos de Linux
 * Laptop con:
      * Mínimo 8 GB de RAM
      * Mínimo 25 GB disponibles en disco
